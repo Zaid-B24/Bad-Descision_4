@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/Main.umap",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/Levels/SpaceShip.umap",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/Levels/_GENERATED/zaidb/Box_7E022B1B.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/Levels/_GENERATED/zaidb/Path_6D5A5B6D.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/Levels/_GENERATED/zaidb/Path_A7142CE9.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/Levels/_GENERATED/zaidb/Stairs_C4A05443.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/Levels/Lighting.umap",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/Materials/Box_Material.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/materialFromInternet/Sci-fiMaterial.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/materialFromInternet/Sci-fiMaterial_Inst.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/materialFromInternet/TCom_Scifi_Panel_2K_albedo.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/materialFromInternet/TCom_Scifi_Panel_2K_ao.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/materialFromInternet/TCom_Scifi_Panel_2K_metallic.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/materialFromInternet/TCom_Scifi_Panel_2K_normal.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/materialFromInternet/TCom_Scifi_Panel_2K_roughness.uasset",
+				"C:/Users/zaidb/OneDrive/Documents/Unreal Projects/BadDescision/Content/Megascans/Surfaces/Metal_Panels_Facade_udqmfeoew/MI_Metal_Panels_Facade_udqmfeoew_2K.uasset"
+			]
+		}
+	]
+}
